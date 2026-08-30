@@ -1,0 +1,28 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/fishing_rod"
+	},
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				90,
+				0
+			],
+			"translation": [
+				0,
+				11.5,
+				-8.5
+			]
+		}
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"cast": 1
+			},
+			"model": "item/fishing_rod_cast"
+		}
+	]
+}

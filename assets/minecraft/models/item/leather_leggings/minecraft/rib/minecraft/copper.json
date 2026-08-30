@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/rib",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/rib/minecraft/copper",
+    "layer2": "minecraft:item/leather_leggings/overlay/minecraft/rib"
+  }
+}

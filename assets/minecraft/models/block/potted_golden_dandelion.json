@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/flower_pot_cross_plains",
+  "textures": {
+    "plant": "minecraft:block/golden_dandelion",
+    "dirt": "minecraft:block/grass_block_top",
+    "particle": "block/blank"
+  }
+}

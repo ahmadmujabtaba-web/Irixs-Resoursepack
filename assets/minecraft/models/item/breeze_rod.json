@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld_item",
+  "textures": {
+    "layer0": "minecraft:item/breeze_rod"
+  }
+}

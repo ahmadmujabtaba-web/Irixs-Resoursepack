@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/rib",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/rib/minecraft/copper",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/rib"
+  }
+}

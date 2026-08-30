@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/snout",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/snout/minecraft/copper",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/snout"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "particle": "minecraft:item/transparent",
+        "layer0": "item/cod_bucket"
+    }
+}

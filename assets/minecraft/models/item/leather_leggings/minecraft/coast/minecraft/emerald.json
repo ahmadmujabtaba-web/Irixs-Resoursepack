@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/coast",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/coast/minecraft/emerald",
+    "layer2": "minecraft:item/leather_leggings/overlay/minecraft/coast"
+  }
+}

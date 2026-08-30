@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emojis/person_symbol.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "🗣👤👥🫂👪👣🫆"
+            ]
+        }
+    ]
+}

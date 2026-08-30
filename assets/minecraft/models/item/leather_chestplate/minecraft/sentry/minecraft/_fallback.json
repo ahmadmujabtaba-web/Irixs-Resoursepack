@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/sentry",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/sentry/minecraft/_fallback",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/sentry"
+  }
+}

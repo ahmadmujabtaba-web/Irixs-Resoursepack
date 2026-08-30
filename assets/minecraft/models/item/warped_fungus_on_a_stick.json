@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+  	"display": {
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 11.5, -8.5]
+		}
+	}
+}

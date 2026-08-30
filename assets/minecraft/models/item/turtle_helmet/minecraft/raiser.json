@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/turtle_helmet",
+  "textures": {
+    "layer0": "minecraft:item/turtle_helmet/base/minecraft/raiser"
+  }
+}

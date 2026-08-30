@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/diamond_leggings",
+  "textures": {
+    "layer0": "minecraft:item/diamond_leggings/base/minecraft/shaper"
+  }
+}

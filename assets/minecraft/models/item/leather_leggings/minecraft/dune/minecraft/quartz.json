@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/dune",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/dune/minecraft/quartz",
+    "layer2": "minecraft:item/leather_leggings/overlay/minecraft/dune"
+  }
+}

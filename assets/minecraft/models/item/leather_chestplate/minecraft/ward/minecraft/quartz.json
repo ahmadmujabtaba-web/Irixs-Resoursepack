@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/ward",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/ward/minecraft/quartz",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/ward"
+  }
+}

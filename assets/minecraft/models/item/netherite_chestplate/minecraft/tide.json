@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_chestplate",
+  "textures": {
+    "layer0": "minecraft:item/netherite_chestplate/base/minecraft/tide"
+  }
+}

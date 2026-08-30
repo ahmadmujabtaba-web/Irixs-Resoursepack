@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/wild",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/wild/minecraft/diamond",
+    "layer2": "minecraft:item/leather_leggings/overlay/minecraft/wild"
+  }
+}

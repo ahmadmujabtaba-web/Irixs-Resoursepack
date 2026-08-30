@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/tooltip/info/armor.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uDBB8\uDF0A\uDBB8\uDF0B\uDBB8\uDF18\uDBB8\uDF19\uDBB8\uDF26\uDBB8\uDF27",
+                "\uDBB8\uDF0C\uDBB8\uDF0D\uDBB8\uDF1A\uDBB8\uDF1B\uDBB8\uDF28\uDBB8\uDF29",
+                "\uDBB8\uDF0E\uDBB8\uDF0F\uDBB8\uDF1C\uDBB8\uDF1D\uDBB8\uDF2A\uDBB8\uDF2B",
+                "\uDBB8\uDF10\uDBB8\uDF11\uDBB8\uDF1E\uDBB8\uDF1F\uDBB8\uDF2C\uDBB8\uDF2D",
+                "\uDBB8\uDF12\uDBB8\uDF13\uDBB8\uDF20\uDBB8\uDF21\uDBB8\uDF2E\uDBB8\uDF2F",
+                "\uDBB8\uDF14\uDBB8\uDF15\uDBB8\uDF22\uDBB8\uDF23\uDBB8\uDF30\uDBB8\uDF31",
+                "\uDBB8\uDF16\uDBB8\uDF17\uDBB8\uDF24\uDBB8\uDF25\uDBB8\uDF32\uDBB8\uDF33"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/tooltip/info/food.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uDB80\uDD51\uDB80\uDD52\uDB80\uDD53\uDB80\uDD54"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/tooltip/info/attributes.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uDB80\uDCFD\uDB80\uDCFE\uDB80\uDCFF\uDB80\uDD00\uDB80\uDD01\uDB80\uDD02\uDB80\uDD03\uDB80\uDD04\uDB80\uDD05\uDB80\uDD06",
+                "\uDB80\uDD07\uDB80\uDD08\uDB80\uDD09\uDB80\uDD0A\uDB80\uDD0B\uDB80\uDD0C\uDB80\uDD0D\uDB80\uDD0E\uDB80\uDD0F\uDB80\uDD10",
+                "\uDB80\uDD11\uDB80\uDD12\uDB80\uDD13\uDB80\uDD14\uDB80\uDD15\uDB80\uDD16\uDB80\uDD17\uDB80\uDD18\uDB80\uDD19\uDB80\uDD1A"
+            ]
+        }
+    ]
+}

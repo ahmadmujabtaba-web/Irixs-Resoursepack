@@ -1,0 +1,6 @@
+{
+	"parent": "visible_cooldown:item/shield_cooldown",
+	"textures": {
+		"texture": "visible_cooldown:item/shield_1"
+	}
+}

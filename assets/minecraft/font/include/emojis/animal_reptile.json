@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emojis/animal_reptile.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "🐊🐢🦎🐍🐲🐉🦕🦖"
+            ]
+        }
+    ]
+}

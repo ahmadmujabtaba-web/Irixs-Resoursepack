@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/turtle_helmet/minecraft/wayfinder",
+  "textures": {
+    "layer1": "minecraft:item/turtle_helmet/trim/minecraft/wayfinder/minecraft/redstone"
+  }
+}

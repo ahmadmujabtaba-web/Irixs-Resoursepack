@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chat/message_type.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uDB81\uDC20\uDB81\uDC21\uDB81\uDC22\uDB81\uDC23\uDB81\uDC24\uDB81\uDC25\uDB81\uDC26\uDB81\uDC27"
+            ]
+        }
+    ]
+}

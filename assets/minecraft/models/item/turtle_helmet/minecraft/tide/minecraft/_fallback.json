@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/turtle_helmet/minecraft/tide",
+  "textures": {
+    "layer1": "minecraft:item/turtle_helmet/trim/minecraft/tide/minecraft/_fallback"
+  }
+}

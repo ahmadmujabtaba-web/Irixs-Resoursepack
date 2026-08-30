@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/raiser",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/raiser/minecraft/amethyst",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/raiser"
+  }
+}

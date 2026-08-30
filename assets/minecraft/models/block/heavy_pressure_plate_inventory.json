@@ -1,0 +1,7 @@
+{
+  "parent": "block/pressure_plate_inventory",
+  "textures": {
+    "texture": "block/iron_plate",
+    "particle": "block/blank"
+  }
+}

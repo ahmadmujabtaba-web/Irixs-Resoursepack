@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/eye",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/eye/minecraft/amethyst",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/eye"
+  }
+}

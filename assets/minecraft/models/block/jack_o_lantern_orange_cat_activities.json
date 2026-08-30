@@ -1,0 +1,7 @@
+{
+  "parent": "block/jack_o_lantern",
+  "textures": {
+    "front": "block/jack_o_lantern_orange_cat_activities",
+    "particle": "block/blank"
+  }
+}

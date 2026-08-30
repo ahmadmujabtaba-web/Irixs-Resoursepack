@@ -1,0 +1,259 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/chat/commands"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/chat/message_type"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/chat/whitelist"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/animal_amphibian"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/animal_mammal"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/animal_reptile"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/award_medal"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/body_parts"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/cat_face"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/emotion"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/event"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_affection"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_concerned"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_costume"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_glasses"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_hand"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_hat"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_negative"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_neutral_skeptical"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_sleepy"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_smiling"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_tongue"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/face_unwell"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/flag"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/food_prepared"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/geometric"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hair_style"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hand_fingers_closed"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hand_fingers_open"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hand_fingers_partial"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hand_prop"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hand_single_finger"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hands"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/heart"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/hotel"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/monkey_face"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/person_symbol"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/plant_flower"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/sky_weather"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/sport"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/time"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/transport_air"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/emojis/transport_water"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/gui/brewing_guide_left"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/gui/brewing_guide_right"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/advancement"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/banner_pattern"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/chat"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/extra"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/firework"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/group"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/gui"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/info"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/magic"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/map"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/menu"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/music"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/smithing"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/statistics"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/toast"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/icons/tropical_fish"
+        },
+        {
+            "type": "space",
+            "advances": {
+                "󎀀": -90,
+                "󎀁": 2,
+                "󎀂": -54,
+                "󎀃": 54,
+                "󎀄": -30,
+                "󎀅": -131
+            }
+        }
+    ]
+}

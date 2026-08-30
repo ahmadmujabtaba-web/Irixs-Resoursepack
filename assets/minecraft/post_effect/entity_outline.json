@@ -1,0 +1,128 @@
+{
+    "targets": {
+        "vanilla_tweaks:inner": {},
+        "vanilla_tweaks:bloom": {},
+        "vanilla_tweaks:bloom_swap": {}
+    },
+    "passes": [
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "vanilla_tweaks:post/outline_entity",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:entity_outline"
+                }
+            ],
+            "output": "vanilla_tweaks:inner",
+            "uniforms": {
+                "OutlineConfig": [
+                    {
+                        "name": "InnerAlpha",
+                        "type": "float",
+                        "value": 0.2
+                    },
+                    {
+                        "name": "Width",
+                        "type": "float",
+                        "value": 2.0
+                    }
+                ]
+            }
+        },
+
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "vanilla_tweaks:post/outline_entity",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:entity_outline"
+                }
+            ],
+            "output": "vanilla_tweaks:bloom",
+            "uniforms": {
+                "OutlineConfig": [
+                    {
+                        "name": "InnerAlpha",
+                        "type": "float",
+                        "value": 1.0
+                    },
+                    {
+                        "name": "Width",
+                        "type": "float",
+                        "value": 10.0
+                    }
+                ]
+            }
+        },
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "vanilla_tweaks:post/bloom_box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "vanilla_tweaks:bloom",
+                    "bilinear": true
+                }
+            ],
+            "output": "vanilla_tweaks:bloom_swap",
+            "uniforms": {
+                "BlurConfig": [
+                    {
+                        "name": "BlurDir",
+                        "type": "vec2",
+                        "value": [ 0.0, 1.0 ]
+                    },
+                    {
+                        "name": "Radius",
+                        "type": "float",
+                        "value": 8.0
+                    }
+                ]
+            }
+        },
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "vanilla_tweaks:post/bloom_box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "vanilla_tweaks:bloom_swap",
+                    "bilinear": true
+                }
+            ],
+            "output": "vanilla_tweaks:bloom",
+            "uniforms": {
+                "BlurConfig": [
+                    {
+                        "name": "BlurDir",
+                        "type": "vec2",
+                        "value": [ 1.0, 0.0 ]
+                    },
+                    {
+                        "name": "Radius",
+                        "type": "float",
+                        "value": 8.0
+                    }
+                ]
+            }
+        },
+
+        {
+            "vertex_shader": "minecraft:core/screenquad",
+            "fragment_shader": "vanilla_tweaks:post/entity_outline_combine",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "vanilla_tweaks:inner"
+                },
+                {
+                    "sampler_name": "Bloom",
+                    "target": "vanilla_tweaks:bloom"
+                }
+            ],
+            "output": "minecraft:entity_outline"
+        }
+    ]
+}

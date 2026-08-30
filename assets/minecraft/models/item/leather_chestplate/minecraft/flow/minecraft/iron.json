@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/flow",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/flow/minecraft/iron",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/flow"
+  }
+}

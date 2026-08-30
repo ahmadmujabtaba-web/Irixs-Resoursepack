@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/leather_helmet",
+  "textures": {
+    "layer0": "minecraft:item/leather_helmet/base/minecraft/wayfinder"
+  }
+}

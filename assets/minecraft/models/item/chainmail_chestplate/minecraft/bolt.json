@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/chainmail_chestplate",
+  "textures": {
+    "layer0": "minecraft:item/chainmail_chestplate/base/minecraft/bolt"
+  }
+}

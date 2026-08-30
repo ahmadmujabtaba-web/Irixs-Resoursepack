@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emojis/transport_water.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "⚓🛟⛵🛶🚤🛳⛴🛥🚢"
+            ]
+        }
+    ]
+}

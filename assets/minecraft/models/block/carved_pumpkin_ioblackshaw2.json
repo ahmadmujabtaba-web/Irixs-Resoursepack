@@ -1,0 +1,7 @@
+{
+  "parent": "block/carved_pumpkin",
+  "textures": {
+    "front": "block/carved_pumpkin_ioblackshaw2",
+    "particle": "block/blank"
+  }
+}

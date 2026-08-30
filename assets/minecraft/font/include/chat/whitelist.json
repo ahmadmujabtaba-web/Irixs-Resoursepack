@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/chat/whitelist.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uDB81\uDC55\uDB81\uDC56\uDB81\uDC57\uDB81\uDC58\uDB81\uDC59\uDB81\uDC5A"
+            ]
+        }
+    ]
+}

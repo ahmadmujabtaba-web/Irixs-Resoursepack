@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/turtle_helmet/minecraft/host",
+  "textures": {
+    "layer1": "minecraft:item/turtle_helmet/trim/minecraft/host/minecraft/lapis"
+  }
+}

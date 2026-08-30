@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_boots/minecraft/wayfinder",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/wayfinder/minecraft/gold",
+    "layer2": "minecraft:item/leather_boots/overlay/minecraft/wayfinder"
+  }
+}

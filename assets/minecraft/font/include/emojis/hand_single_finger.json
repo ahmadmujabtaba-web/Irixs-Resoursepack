@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/emojis/hand_single_finger.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "👈👉👆🖕👇☝🫵"
+            ]
+        }
+    ]
+}

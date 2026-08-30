@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/turtle_helmet/minecraft/vex",
+  "textures": {
+    "layer1": "minecraft:item/turtle_helmet/trim/minecraft/vex/minecraft/quartz"
+  }
+}

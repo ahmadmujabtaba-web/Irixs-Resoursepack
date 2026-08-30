@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 0, 135, 0 ],
+            "translation": [ 0, 0.9 , 0 ],
+            "scale": [ 0.29, 0.29, 0.29 ]
+        }
+    },
+    "textures": {
+        "particle": "#front",
+        "down": "#bottom",
+        "up": "#top",
+        "north": "#front",
+        "east": "#side",
+        "south": "#side",
+        "west": "#side"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flower_pot_cross_pale_garden",
+  "textures": {
+    "plant": "minecraft:block/closed_eyeblossom",
+    "particle": "block/blank"
+  }
+}

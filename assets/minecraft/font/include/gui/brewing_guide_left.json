@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/brewing_guide/brewing_guide_left.png",
+            "ascent": 13,
+            "height": 100,
+            "chars": [
+                "\ueff1"
+            ]
+        }
+    ]
+}

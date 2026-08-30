@@ -1,0 +1,1156 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/advancement_groups.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\udb80\ude15\udb80\ude16\udb80\ude17\udb80\ude18\udb80\ude19"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/cure_zombie_villager.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude6e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/deflect_arrow.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude6f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/enchant_item.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude70"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/enter_the_end.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\ude71"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/enter_the_nether.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\ude72"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/follow_ender_eye.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude73"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/form_obsidian.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude74"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/iron_tools.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude75"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/lava_bucket.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude76"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/mine_diamond.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude77"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/mine_stone.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude78"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/obtain_armor.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude79"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/root.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude7a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/shiny_gear.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude7b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/smelt_iron.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude7c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/story/upgrade_tools.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude7d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/all_effects.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude7e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/all_potions.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\ude7f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/brew_potion.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude80"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/charge_respawn_anchor.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude81"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/create_beacon.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude82"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/create_full_beacon.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\ude83"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/distract_piglin.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude84"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/explore_nether.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude85"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/fast_travel.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude86"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/find_bastion.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\ude87"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/find_fortress.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude88"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/get_wither_skull.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude89"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/loot_bastion.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude8a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/netherite_armor.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude8b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/obtain_ancient_debris.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\ude8c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/obtain_blaze_rod.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\ude8d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/obtain_crying_obsidian.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude8e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/return_to_sender.png",
+            "ascent": 8,
+            "height": 96,
+            "chars": [
+                "\udbc1\ude8f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/ride_strider_in_overworld_lava.png",
+            "ascent": 8,
+            "height": 84,
+            "chars": [
+                "\udbc1\ude90"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/ride_strider.png",
+            "ascent": 8,
+            "height": 84,
+            "chars": [
+                "\udbc1\ude91"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/root.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude92"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/summon_wither.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude93"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/uneasy_alliance.png",
+            "ascent": 8,
+            "height": 84,
+            "chars": [
+                "\udbc1\ude94"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/nether/use_lodestone.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude95"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/adventure_time.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude96"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/arbalistic.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude97"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/avoid_vibration.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude98"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/blowback.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude99"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/brush_armadillo.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude9a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/bullseye.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude9b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/craft_decorated_pot_using_only_sherds.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude9c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/crafters_crafting_crafters.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\ude9d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/fall_from_world_height.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\ude9e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/heart_transplanter.png",
+            "ascent": 8,
+            "height": 64,
+            "chars": [
+                "\udbc1\ude9f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/hero_of_the_village.png",
+            "ascent": 8,
+            "height": 84,
+            "chars": [
+                "\udbc1\udea0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/honey_block_slide.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\udea1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/kill_a_mob.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udea2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/kill_all_mobs.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udea3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/kill_mob_near_sculk_catalyst.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udea4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/lighten_up.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udea5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/lightning_rod_with_villager_no_fire.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udea6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/minecraft_trials_edition.png",
+            "ascent": 8,
+            "height": 84,
+            "chars": [
+                "\udbc1\udea7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/ol_betsy.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udea8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/overoverkill.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udea9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/play_jukebox_in_meadows.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\udeaa"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/read_power_from_chiseled_bookshelf.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeab"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/revaulting.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeac"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/root.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udead"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/salvage_sherd.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeae"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/shoot_arrow.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeaf"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/sleep_in_bed.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeb0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/sniper_duel.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeb1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/spear_many_mobs.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\udeb2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/spyglass_at_dragon.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeb3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/spyglass_at_ghast.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeb4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/spyglass_at_parrot.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeb5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/summon_iron_golem.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\udeb6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/throw_trident.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\udeb7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/totem_of_undying.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeb8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/trade_at_world_height.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\udeb9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/trade.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeba"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/trim_with_all_exclusive_armor_patterns.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udebb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/trim_with_any_armor_pattern.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udebc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/two_birds_one_arrow.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\udebd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/under_lock_and_key.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udebe"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/use_lodestone.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udebf"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/very_very_frightening.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udec0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/voluntary_exile.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udec1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/walk_on_powder_snow_with_leather_boots.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\udec2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/who_needs_rockets.png",
+            "ascent": 8,
+            "height": 84,
+            "chars": [
+                "\udbc1\udec3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/adventure/whos_the_pillager_now.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udec4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/dragon_breath.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udec5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/dragon_egg.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udec6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/elytra.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udec7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/enter_end_gateway.png",
+            "ascent": 8,
+            "height": 84,
+            "chars": [
+                "\udbc1\udec8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/find_end_city.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\udec9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/kill_dragon.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeca"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/levitate.png",
+            "ascent": 8,
+            "height": 96,
+            "chars": [
+                "\udbc1\udecb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/respawn_dragon.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udecc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/end/root.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udecd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/allay_deliver_cake_to_note_block.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udece"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/allay_deliver_item_to_player.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udecf"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/axolotl_in_a_bucket.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\uded0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/balanced_diet.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\uded1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/breed_all_animals.png",
+            "ascent": 8,
+            "height": 120,
+            "chars": [
+                "\udbc1\uded2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/breed_an_animal.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\uded3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/complete_catalogue.png",
+            "ascent": 8,
+            "height": 60,
+            "chars": [
+                "\udbc1\uded4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/feed_snifflet.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\uded5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/fishy_business.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\uded6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/froglights.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\uded7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/kill_axolotl_target.png",
+            "ascent": 8,
+            "height": 36,
+            "chars": [
+                "\udbc1\uded8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/leash_all_frog_variants.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\uded9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/make_a_sign_glow.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeda"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/netherite_hoe.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udedb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/obtain_sniffer_egg.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udedc"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/place_dried_ghast_in_water.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udedd"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/plant_any_sniffer_seed.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udede"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/plant_seed.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udedf"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/remove_wolf_armor.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/repair_wolf_armor.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/ride_a_boat_with_a_goat.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/root.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/safely_harvest_honey.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/silk_touch_nest.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/tactical_fishing.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/tadpole_in_a_bucket.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/tame_an_animal.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/wax_off.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udee9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/wax_on.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeea"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/whole_pack.png",
+            "ascent": 8,
+            "height": 72,
+            "chars": [
+                "\udbc1\udeeb"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/advancement/husbandry/uh_oh.png",
+            "ascent": 8,
+            "height": 48,
+            "chars": [
+                "\udbc1\udeec"
+            ]
+        }
+    ]
+}

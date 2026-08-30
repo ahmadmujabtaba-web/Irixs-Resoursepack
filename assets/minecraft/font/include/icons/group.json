@@ -1,0 +1,16 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/group/itemgroup.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uDB89\uDC00\uDB89\uDC01\uDB89\uDC02\uDB89\uDC03",
+                "\uDB89\uDC04\uDB89\uDC05\uDB89\uDC06\uDB89\uDC07",
+                "\uDB89\uDC08\uDB89\uDC09\uDB89\uDC0A\uDB89\uDC0B",
+                "\uDB89\uDC0C\uDB89\uDC0D\uDB89\uDC0E\uDB89\uDC0F"
+            ]
+        }
+    ]
+}

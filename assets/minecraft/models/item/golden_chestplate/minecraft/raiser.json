@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_chestplate",
+  "textures": {
+    "layer0": "minecraft:item/golden_chestplate/base/minecraft/raiser"
+  }
+}

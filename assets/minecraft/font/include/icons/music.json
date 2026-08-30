@@ -1,0 +1,26 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/tooltip/music/horn.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uDBFF\uDFAB\uDBFF\uDFAC\uDBFF\uDFAD\uDBFF\uDFAE",
+                "\uDBFF\uDFAF\uDBFF\uDFA0\uDBFF\uDFA1\uDBFF\uDFA2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/tooltip/music/discs.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uDBA2\uDD7A\uDBA2\uDD7B\uDBA2\uDD7C\uDBA2\uDD7D\uDBA2\uDD7E\uDBA2\uDD7F\uDBA2\uDD80",
+                "\uDBA2\uDD81\uDBA2\uDD82\uDBA2\uDD83\uDBA2\uDD84\uDBA2\uDD85\uDBA2\uDD86\uDBA2\uDD87",
+                "\uDBA2\uDD88\uDBA2\uDD89\uDBA2\uDD8A\uDBA2\uDD8B\uDBA2\uDD8C\uDBA2\uDD8D\uDBA2\uDD8E",
+                "\uDBA2\uDD8F\uDBA2\uDD90\uDBA2\uDD91\uDBA2\uDD92\uDBA2\uDD93\uDBA2\uDD94\uDBA2\uDD95"
+            ]
+        }
+    ]
+}

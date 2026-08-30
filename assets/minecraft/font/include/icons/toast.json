@@ -1,0 +1,112 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/volume_alpha.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC07"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/volume_beta.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC08"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/axolotl.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC09"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/dragon_fish.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC0A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/shuniji.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC0B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/nether_update.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC0C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/caves_cliffs.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC0D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/the_wild_update.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC0E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/trails_tales.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC0F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/tricky_trials.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC10"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/chase_the_skies.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC11"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/toast/chaos_cubed.png",
+            "ascent": 14,
+            "height": 22,
+            "chars": [
+                "\uDBB9\uDC12"
+            ]
+        }
+    ]
+}

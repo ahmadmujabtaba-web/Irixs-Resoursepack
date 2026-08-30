@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/tooltip/magic/enchantment.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uDBA0\uDC00\uDBA0\uDC01\uDBA0\uDC02\uDBA0\uDC03\uDBA0\uDC04\uDBA0\uDC05\uDBA0\uDC06\uDBA0\uDC07",
+                "\uDBA0\uDC08\uDBA0\uDC09\uDBA0\uDC0A\uDBA0\uDC0B\uDBA0\uDC0C\uDBA0\uDC0D\uDBA0\uDC0E\uDBA0\uDC0F",
+                "\uDBA0\uDC10\uDBA0\uDC11\uDBA0\uDC12\uDBA0\uDC13\uDBA0\uDC14\uDBA0\uDC15\uDBA0\uDC16\uDBA0\uDC17",
+                "\uDBA0\uDC18\uDBA0\uDC19\uDBA0\uDC1A\uDBA0\uDC1B\uDBA0\uDC1C\uDBA0\uDC1D\uDBA0\uDC1E\uDBA0\uDC1F",
+                "\uDBA0\uDC20\uDBA0\uDC21\uDBA0\uDC22\uDBA0\uDC23\uDBA0\uDC24\uDBA0\uDC25\uDBA0\uDC26\uDBA0\uDC27",
+                "\uDBA0\uDC28\uDBA0\uDC29\uDBA0\uDC2A\uDBA0\uDC2B\uDBA0\uDC2C\uDBA0\uDC2D\uDBA0\uDC2E\uDBA0\uDC2F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/tooltip/magic/effect.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uDB80\uDD89\uDB80\uDD8A\uDB80\uDD8B\uDB80\uDD8C\uDB80\uDD8D\uDB80\uDD8E\uDB80\uDD8F\uDB80\uDD90",
+                "\uDB80\uDD91\uDB80\uDD92\uDB80\uDD93\uDB80\uDD94\uDB80\uDD95\uDB80\uDD96\uDB80\uDD97\uDB80\uDD98",
+                "\uDB80\uDD99\uDB80\uDD9A\uDB80\uDD9B\uDB80\uDD9C\uDB80\uDD9D\uDB80\uDD9E\uDB80\uDD9F\uDB80\uDDA0",
+                "\uDB80\uDDA1\uDB80\uDDA2\uDB80\uDDA3\uDB80\uDDA4\uDB80\uDDA5\uDB80\uDDA6\uDB80\uDDA7\uDB80\uDDA8",
+                "\uDB80\uDDA9\uDB80\uDDAA\uDB80\uDDAB\uDB80\uDDAC\uDB80\uDDAD\uDB80\uDDAE\uDB80\uDDAF\uDB80\uDDB0"
+            ]
+        }
+    ]
+}

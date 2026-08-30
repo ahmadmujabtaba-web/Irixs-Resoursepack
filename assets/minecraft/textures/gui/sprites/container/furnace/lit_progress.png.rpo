@@ -1,0 +1,4 @@
+{
+    condition: "animations.furnaceFire",
+    fallback: "assets/minecraft/textures/gui/sprites/container/blast_furnace/lit_progress_empty.png"
+}

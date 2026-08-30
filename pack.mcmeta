@@ -1,0 +1,60 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": {
+			"min_inclusive": 15,
+			"max_inclusive": 999
+		},
+		"description": [
+			"§8Minecraft, but Sigmer. | 26.3",
+			"\n",
+			{
+				"text": "§l■ B",
+				"color": "#5628c8"
+			},
+			{
+				"text": "§ly",
+				"color": "#4d25b0"
+			},
+			{
+				"text": " - ",
+				"color": "#442199"
+			},
+			{
+				"text": "§lI",
+				"color": "#3a1c83"
+			},
+			{
+				"text": "§lr",
+				"color": "#31176f"
+			},
+			{
+				"text": "§li",
+				"color": "#28125b"
+			},
+			{
+				"text": "§lx",
+				"color": "#200f4a"
+			},
+			{
+				"text": "§l_",
+				"color": "#190b3a"
+			}
+		],
+		"min_format": 15,
+		"max_format": 999
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "21-2",
+				"formats": {
+					"min_inclusive": 42,
+					"max_inclusive": 999
+				},
+				"min_format": 42,
+				"max_format": 999
+			}
+		]
+	}
+}

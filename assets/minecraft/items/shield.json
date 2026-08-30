@@ -1,0 +1,62 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:cooldown",
+      "scale": 5,
+      "entries": [
+        {
+          "threshold": 4,
+          "model": {
+            "type": "minecraft:model",
+            "model": "visible_cooldown:item/shield_cooldown5"
+          }
+        },
+        {
+          "threshold": 3,
+          "model": {
+            "type": "minecraft:model",
+            "model": "visible_cooldown:item/shield_cooldown4"
+          }
+        },
+        {
+          "threshold": 2,
+          "model": {
+            "type": "minecraft:model",
+            "model": "visible_cooldown:item/shield_cooldown3"
+          }
+        },
+        {
+          "threshold": 1,
+          "model": {
+            "type": "minecraft:model",
+            "model": "visible_cooldown:item/shield_cooldown2"
+          }
+        },
+        {
+          "threshold": 0.01,
+          "model": {
+            "type": "minecraft:model",
+            "model": "visible_cooldown:item/shield_cooldown1"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:special",
+        "model": {
+          "type": "minecraft:shield"
+        },
+        "base": "minecraft:item/shield"
+      }
+    },
+    "on_true": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/shield_blocking",
+      "model": {
+        "type": "minecraft:shield"
+      }
+    },
+    "property": "minecraft:using_item"
+  }
+}

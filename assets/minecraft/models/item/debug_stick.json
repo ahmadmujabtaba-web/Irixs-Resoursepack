@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld_custom",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_boots/minecraft/coast",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/coast/minecraft/amethyst",
+    "layer2": "minecraft:item/leather_boots/overlay/minecraft/coast"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "particle": "block/blank",
+    "layer0": "item/ominous_banner"
+  }
+}

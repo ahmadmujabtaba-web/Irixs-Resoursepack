@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_chestplate/minecraft/shaper",
+  "textures": {
+    "layer1": "minecraft:trims/items/chestplate_trim/minecraft/shaper/minecraft/copper",
+    "layer2": "minecraft:item/leather_chestplate/overlay/minecraft/shaper"
+  }
+}

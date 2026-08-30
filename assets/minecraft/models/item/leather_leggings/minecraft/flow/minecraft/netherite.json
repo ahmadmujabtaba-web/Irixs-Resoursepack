@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/flow",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/flow/minecraft/netherite",
+    "layer2": "minecraft:item/leather_leggings/overlay/minecraft/flow"
+  }
+}

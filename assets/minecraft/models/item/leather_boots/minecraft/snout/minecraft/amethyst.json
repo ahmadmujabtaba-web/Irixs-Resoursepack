@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_boots/minecraft/snout",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/snout/minecraft/amethyst",
+    "layer2": "minecraft:item/leather_boots/overlay/minecraft/snout"
+  }
+}

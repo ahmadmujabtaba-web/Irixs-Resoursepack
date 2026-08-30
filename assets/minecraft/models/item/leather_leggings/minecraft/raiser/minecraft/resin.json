@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_leggings/minecraft/raiser",
+  "textures": {
+    "layer1": "minecraft:trims/items/leggings_trim/minecraft/raiser/minecraft/resin",
+    "layer2": "minecraft:item/leather_leggings/overlay/minecraft/raiser"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/icons/menu/on_off.png",
+            "ascent": 13,
+            "height": 20,
+            "chars": [
+                "\uDB80\uDC23\uDB80\uDC24"
+            ]
+        }
+    ]
+}

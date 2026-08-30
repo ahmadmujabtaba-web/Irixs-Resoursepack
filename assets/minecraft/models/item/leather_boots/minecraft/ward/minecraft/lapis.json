@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/leather_boots/minecraft/ward",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim/minecraft/ward/minecraft/lapis",
+    "layer2": "minecraft:item/leather_boots/overlay/minecraft/ward"
+  }
+}
