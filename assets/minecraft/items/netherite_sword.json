@@ -845,6 +845,31 @@
         }
       },
       {
+        "when": "Dragon Slayer",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/swords/dragonslayer_gui"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/swords/dragonslayer"
+          }
+        }
+      },
+      {
         "when": "Hades' Blade",
         "model": {
           "type": "minecraft:model",

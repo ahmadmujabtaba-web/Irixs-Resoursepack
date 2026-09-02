@@ -836,6 +836,73 @@
           "type": "minecraft:model",
           "model": "minecraft:item/swords/requiem_of_hell"
         }
+      },
+      {
+        "when": "Devourer of Worlds",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/swords/faust_zweihander"
+        }
+      },
+      {
+        "when": "Dragon Slayer",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/swords/dragonslayer_gui"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/swords/dragonslayer"
+          }
+        }
+      },
+      {
+        "when": "Hades' Blade",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/swords/blood_blade"
+        }
+      },
+      {
+        "when": "Hades' Claws",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/swords/blood_claws"
+        }
+      },
+      {
+        "when": "Hades' Tendrils",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/swords/blood_tendrils"
+        }
+      },
+      {
+        "when": "Hades' Whipfist",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/swords/blood_whipfist"
+        }
+      },
+      {
+        "when": "Hades' Hammerfists",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/swords/blood_hammerfists"
+        }
       }
     ],
     "fallback": {
