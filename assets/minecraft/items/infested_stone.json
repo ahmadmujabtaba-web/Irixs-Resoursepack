@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:block/stone"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:block/infested"
+            }
+          ]
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/stone"
+    },
+    "property": "minecraft:display_context"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:block/exposed_copper_trapdoor_bottom"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:block/waxed"
+            }
+          ]
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/exposed_copper_trapdoor_bottom"
+    },
+    "property": "minecraft:display_context"
+  }
+}

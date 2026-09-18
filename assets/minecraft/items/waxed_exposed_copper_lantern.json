@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/exposed_copper_lantern"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:item/waxed"
+            }
+          ]
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/exposed_copper_lantern"
+    },
+    "property": "minecraft:display_context"
+  }
+}

@@ -841,7 +841,7 @@
         "when": "Devourer of Worlds",
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/swords/faust_zweihander"
+          "model": "minecraft:item/swords/devourer_of_worlds"
         }
       },
       {

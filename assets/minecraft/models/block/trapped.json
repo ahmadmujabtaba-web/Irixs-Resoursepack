@@ -1,0 +1,56 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "trapped": "item/trapped",
+        "particle": "block/blank"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                16.1,
+                -8
+            ],
+            "to": [
+                16,
+                16.1,
+                24
+            ],
+            "rotation": {
+                "angle": -45,
+                "axis": "y",
+                "origin": [
+                    8,
+                    16,
+                    8
+                ]
+            },
+            "faces": {
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "rotation": 180,
+                    "texture": "#trapped"
+                }
+            }
+        }
+    ],
+    "display": {
+        "gui": {
+            "rotation": [
+                30,
+                225,
+                0
+            ],
+            "translation": [
+                0,
+                -7,
+                8
+            ]
+        }
+    }
+}

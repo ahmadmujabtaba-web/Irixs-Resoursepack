@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:block/copper_bulb"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "minecraft:block/waxed"
+            }
+          ]
+        },
+        "when": [
+          "gui"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/copper_bulb"
+    },
+    "property": "minecraft:display_context"
+  }
+}
