@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_boots/minecraft/vex",
+  "textures": {
+    "layer1": "minecraft:item/trims/netherite_boots/trim/minecraft/vex/minecraft/resin"
+  }
+}

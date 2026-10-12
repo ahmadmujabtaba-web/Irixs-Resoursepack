@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/baked_potato",
+  "textures": {
+    "layer0": "minecraft:item/eating/baked_potato_1"
+  }
+}

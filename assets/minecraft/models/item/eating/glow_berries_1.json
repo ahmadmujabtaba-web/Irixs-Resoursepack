@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/glow_berries",
+  "textures": {
+    "layer0": "minecraft:item/eating/glow_berries_1"
+  }
+}

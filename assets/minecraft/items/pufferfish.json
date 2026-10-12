@@ -1,42 +1,42 @@
 {
   "model": {
     "type": "minecraft:condition",
+    "property": "minecraft:using_item",
     "on_false": {
       "type": "minecraft:model",
       "model": "minecraft:item/pufferfish"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",
+      "property": "minecraft:use_duration",
+      "scale": 0.05,
       "entries": [
-		{
+        {
+          "threshold": 0.33,
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/pufferfish_0"
-          },
-          "threshold": 0.33
+            "model": "minecraft:item/eating/pufferfish_0"
+          }
         },
         {
+          "threshold": 0.66,
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/pufferfish_1"
-          },
-          "threshold": 0.66
+            "model": "minecraft:item/eating/pufferfish_1"
+          }
         },
         {
+          "threshold": 1.2,
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/pufferfish_2"
-          },
-          "threshold": 1.2
+            "model": "minecraft:item/eating/pufferfish_2"
+          }
         }
       ],
       "fallback": {
         "type": "minecraft:model",
         "model": "minecraft:item/pufferfish"
-      },
-      "property": "minecraft:use_duration",
-      "scale": 0.05
-    },
-    "property": "minecraft:using_item"
+      }
+    }
   }
 }

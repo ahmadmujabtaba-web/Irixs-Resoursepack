@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/turtle_helmet/minecraft/snout",
+  "textures": {
+    "layer1": "minecraft:item/trims/turtle_helmet/trim/minecraft/snout/minecraft/amethyst"
+  }
+}

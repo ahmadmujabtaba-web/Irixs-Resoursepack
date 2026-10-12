@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/leather_leggings",
-  "textures": {
-    "layer0": "minecraft:item/leather_leggings/base/minecraft/coast"
-  }
-}

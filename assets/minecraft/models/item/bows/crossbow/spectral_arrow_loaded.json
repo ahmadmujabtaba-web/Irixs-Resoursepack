@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/bows/crossbow/crossbow_arrow",
+    "textures": {
+        "layer0": "item/bows/crossbow/loaded_crossbow",
+        "layer1": "item/bows/crossbow/spectral_arrow_loaded"
+    }
+}

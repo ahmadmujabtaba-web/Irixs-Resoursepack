@@ -14,7 +14,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/redstone"
               }
             },
             {
@@ -24,7 +24,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/redstone"
               }
             },
             {
@@ -34,7 +34,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/redstone"
               }
             },
             {
@@ -44,7 +44,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/redstone"
               }
             },
             {
@@ -54,7 +54,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/redstone"
               }
             },
             {
@@ -64,7 +64,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/redstone"
               }
             },
             {
@@ -74,7 +74,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/redstone"
               }
             },
             {
@@ -84,7 +84,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/redstone"
               }
             },
             {
@@ -94,7 +94,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/redstone"
               }
             },
             {
@@ -104,7 +104,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/redstone"
               }
             },
             {
@@ -114,7 +114,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/redstone"
               }
             },
             {
@@ -124,7 +124,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/redstone"
               }
             },
             {
@@ -134,7 +134,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/redstone"
               }
             },
             {
@@ -144,7 +144,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/redstone"
               }
             },
             {
@@ -154,7 +154,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/redstone"
               }
             },
             {
@@ -164,7 +164,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/redstone"
               }
             },
             {
@@ -174,7 +174,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/redstone"
               }
             },
             {
@@ -184,13 +184,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/redstone"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/redstone"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/redstone"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/redstone"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -208,7 +208,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/copper"
               }
             },
             {
@@ -218,7 +218,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/copper"
               }
             },
             {
@@ -228,7 +228,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/copper"
               }
             },
             {
@@ -238,7 +238,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/copper"
               }
             },
             {
@@ -248,7 +248,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/copper"
               }
             },
             {
@@ -258,7 +258,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/copper"
               }
             },
             {
@@ -268,7 +268,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/copper"
               }
             },
             {
@@ -278,7 +278,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/copper"
               }
             },
             {
@@ -288,7 +288,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/copper"
               }
             },
             {
@@ -298,7 +298,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/copper"
               }
             },
             {
@@ -308,7 +308,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/copper"
               }
             },
             {
@@ -318,7 +318,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/copper"
               }
             },
             {
@@ -328,7 +328,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/copper"
               }
             },
             {
@@ -338,7 +338,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/copper"
               }
             },
             {
@@ -348,7 +348,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/copper"
               }
             },
             {
@@ -358,7 +358,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/copper"
               }
             },
             {
@@ -368,7 +368,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/copper"
               }
             },
             {
@@ -378,13 +378,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/copper"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/copper"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/copper"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/copper"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -402,7 +402,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/gold"
               }
             },
             {
@@ -412,7 +412,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/gold"
               }
             },
             {
@@ -422,7 +422,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/gold"
               }
             },
             {
@@ -432,7 +432,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/gold"
               }
             },
             {
@@ -442,7 +442,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/gold"
               }
             },
             {
@@ -452,7 +452,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/gold"
               }
             },
             {
@@ -462,7 +462,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/gold"
               }
             },
             {
@@ -472,7 +472,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/gold"
               }
             },
             {
@@ -482,7 +482,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/gold"
               }
             },
             {
@@ -492,7 +492,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/gold"
               }
             },
             {
@@ -502,7 +502,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/gold"
               }
             },
             {
@@ -512,7 +512,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/gold"
               }
             },
             {
@@ -522,7 +522,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/gold"
               }
             },
             {
@@ -532,7 +532,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/gold"
               }
             },
             {
@@ -542,7 +542,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/gold"
               }
             },
             {
@@ -552,7 +552,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/gold"
               }
             },
             {
@@ -562,7 +562,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/gold"
               }
             },
             {
@@ -572,13 +572,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/gold"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/gold"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/gold"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/gold"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -596,7 +596,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/emerald"
               }
             },
             {
@@ -606,7 +606,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/emerald"
               }
             },
             {
@@ -616,7 +616,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/emerald"
               }
             },
             {
@@ -626,7 +626,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/emerald"
               }
             },
             {
@@ -636,7 +636,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/emerald"
               }
             },
             {
@@ -646,7 +646,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/emerald"
               }
             },
             {
@@ -656,7 +656,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/emerald"
               }
             },
             {
@@ -666,7 +666,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/emerald"
               }
             },
             {
@@ -676,7 +676,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/emerald"
               }
             },
             {
@@ -686,7 +686,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/emerald"
               }
             },
             {
@@ -696,7 +696,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/emerald"
               }
             },
             {
@@ -706,7 +706,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/emerald"
               }
             },
             {
@@ -716,7 +716,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/emerald"
               }
             },
             {
@@ -726,7 +726,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/emerald"
               }
             },
             {
@@ -736,7 +736,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/emerald"
               }
             },
             {
@@ -746,7 +746,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/emerald"
               }
             },
             {
@@ -756,7 +756,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/emerald"
               }
             },
             {
@@ -766,13 +766,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/emerald"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/emerald"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/emerald"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/emerald"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -790,7 +790,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/diamond"
               }
             },
             {
@@ -800,7 +800,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/diamond"
               }
             },
             {
@@ -810,7 +810,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/diamond"
               }
             },
             {
@@ -820,7 +820,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/diamond"
               }
             },
             {
@@ -830,7 +830,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/diamond"
               }
             },
             {
@@ -840,7 +840,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/diamond"
               }
             },
             {
@@ -850,7 +850,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/diamond"
               }
             },
             {
@@ -860,7 +860,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/diamond"
               }
             },
             {
@@ -870,7 +870,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/diamond"
               }
             },
             {
@@ -880,7 +880,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/diamond"
               }
             },
             {
@@ -890,7 +890,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/diamond"
               }
             },
             {
@@ -900,7 +900,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/diamond"
               }
             },
             {
@@ -910,7 +910,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/diamond"
               }
             },
             {
@@ -920,7 +920,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/diamond"
               }
             },
             {
@@ -930,7 +930,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/diamond"
               }
             },
             {
@@ -940,7 +940,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/diamond"
               }
             },
             {
@@ -950,7 +950,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/diamond"
               }
             },
             {
@@ -960,13 +960,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/diamond"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/diamond"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/diamond"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/diamond"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -984,7 +984,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/lapis"
               }
             },
             {
@@ -994,7 +994,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/lapis"
               }
             },
             {
@@ -1004,7 +1004,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/lapis"
               }
             },
             {
@@ -1014,7 +1014,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/lapis"
               }
             },
             {
@@ -1024,7 +1024,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/lapis"
               }
             },
             {
@@ -1034,7 +1034,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/lapis"
               }
             },
             {
@@ -1044,7 +1044,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/lapis"
               }
             },
             {
@@ -1054,7 +1054,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/lapis"
               }
             },
             {
@@ -1064,7 +1064,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/lapis"
               }
             },
             {
@@ -1074,7 +1074,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/lapis"
               }
             },
             {
@@ -1084,7 +1084,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/lapis"
               }
             },
             {
@@ -1094,7 +1094,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/lapis"
               }
             },
             {
@@ -1104,7 +1104,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/lapis"
               }
             },
             {
@@ -1114,7 +1114,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/lapis"
               }
             },
             {
@@ -1124,7 +1124,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/lapis"
               }
             },
             {
@@ -1134,7 +1134,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/lapis"
               }
             },
             {
@@ -1144,7 +1144,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/lapis"
               }
             },
             {
@@ -1154,13 +1154,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/lapis"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/lapis"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/lapis"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/lapis"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -1178,7 +1178,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/amethyst"
               }
             },
             {
@@ -1188,7 +1188,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/amethyst"
               }
             },
             {
@@ -1198,7 +1198,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/amethyst"
               }
             },
             {
@@ -1208,7 +1208,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/amethyst"
               }
             },
             {
@@ -1218,7 +1218,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/amethyst"
               }
             },
             {
@@ -1228,7 +1228,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/amethyst"
               }
             },
             {
@@ -1238,7 +1238,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/amethyst"
               }
             },
             {
@@ -1248,7 +1248,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/amethyst"
               }
             },
             {
@@ -1258,7 +1258,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/amethyst"
               }
             },
             {
@@ -1268,7 +1268,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/amethyst"
               }
             },
             {
@@ -1278,7 +1278,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/amethyst"
               }
             },
             {
@@ -1288,7 +1288,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/amethyst"
               }
             },
             {
@@ -1298,7 +1298,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/amethyst"
               }
             },
             {
@@ -1308,7 +1308,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/amethyst"
               }
             },
             {
@@ -1318,7 +1318,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/amethyst"
               }
             },
             {
@@ -1328,7 +1328,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/amethyst"
               }
             },
             {
@@ -1338,7 +1338,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/amethyst"
               }
             },
             {
@@ -1348,13 +1348,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/amethyst"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/amethyst"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/amethyst"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/amethyst"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -1372,7 +1372,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/quartz"
               }
             },
             {
@@ -1382,7 +1382,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/quartz"
               }
             },
             {
@@ -1392,7 +1392,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/quartz"
               }
             },
             {
@@ -1402,7 +1402,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/quartz"
               }
             },
             {
@@ -1412,7 +1412,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/quartz"
               }
             },
             {
@@ -1422,7 +1422,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/quartz"
               }
             },
             {
@@ -1432,7 +1432,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/quartz"
               }
             },
             {
@@ -1442,7 +1442,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/quartz"
               }
             },
             {
@@ -1452,7 +1452,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/quartz"
               }
             },
             {
@@ -1462,7 +1462,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/quartz"
               }
             },
             {
@@ -1472,7 +1472,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/quartz"
               }
             },
             {
@@ -1482,7 +1482,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/quartz"
               }
             },
             {
@@ -1492,7 +1492,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/quartz"
               }
             },
             {
@@ -1502,7 +1502,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/quartz"
               }
             },
             {
@@ -1512,7 +1512,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/quartz"
               }
             },
             {
@@ -1522,7 +1522,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/quartz"
               }
             },
             {
@@ -1532,7 +1532,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/quartz"
               }
             },
             {
@@ -1542,13 +1542,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/quartz"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/quartz"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/quartz"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/quartz"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -1566,7 +1566,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/iron"
               }
             },
             {
@@ -1576,7 +1576,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/iron"
               }
             },
             {
@@ -1586,7 +1586,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/iron"
               }
             },
             {
@@ -1596,7 +1596,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/iron"
               }
             },
             {
@@ -1606,7 +1606,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/iron"
               }
             },
             {
@@ -1616,7 +1616,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/iron"
               }
             },
             {
@@ -1626,7 +1626,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/iron"
               }
             },
             {
@@ -1636,7 +1636,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/iron"
               }
             },
             {
@@ -1646,7 +1646,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/iron"
               }
             },
             {
@@ -1656,7 +1656,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/iron"
               }
             },
             {
@@ -1666,7 +1666,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/iron"
               }
             },
             {
@@ -1676,7 +1676,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/iron"
               }
             },
             {
@@ -1686,7 +1686,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/iron"
               }
             },
             {
@@ -1696,7 +1696,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/iron"
               }
             },
             {
@@ -1706,7 +1706,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/iron"
               }
             },
             {
@@ -1716,7 +1716,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/iron"
               }
             },
             {
@@ -1726,7 +1726,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/iron"
               }
             },
             {
@@ -1736,13 +1736,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/iron"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/iron"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/iron"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/iron"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -1760,7 +1760,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/netherite"
               }
             },
             {
@@ -1770,7 +1770,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/netherite"
               }
             },
             {
@@ -1780,7 +1780,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/netherite"
               }
             },
             {
@@ -1790,7 +1790,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/netherite"
               }
             },
             {
@@ -1800,7 +1800,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/netherite"
               }
             },
             {
@@ -1810,7 +1810,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/netherite"
               }
             },
             {
@@ -1820,7 +1820,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/netherite"
               }
             },
             {
@@ -1830,7 +1830,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/netherite"
               }
             },
             {
@@ -1840,7 +1840,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/netherite"
               }
             },
             {
@@ -1850,7 +1850,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/netherite"
               }
             },
             {
@@ -1860,7 +1860,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/netherite"
               }
             },
             {
@@ -1870,7 +1870,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/netherite"
               }
             },
             {
@@ -1880,7 +1880,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/netherite"
               }
             },
             {
@@ -1890,7 +1890,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/netherite"
               }
             },
             {
@@ -1900,7 +1900,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/netherite"
               }
             },
             {
@@ -1910,7 +1910,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/netherite"
               }
             },
             {
@@ -1920,7 +1920,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/netherite"
               }
             },
             {
@@ -1930,13 +1930,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/netherite"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/netherite"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/netherite"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/netherite"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -1954,7 +1954,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/resin"
               }
             },
             {
@@ -1964,7 +1964,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/resin"
               }
             },
             {
@@ -1974,7 +1974,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/resin"
               }
             },
             {
@@ -1984,7 +1984,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/resin"
               }
             },
             {
@@ -1994,7 +1994,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/resin"
               }
             },
             {
@@ -2004,7 +2004,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/resin"
               }
             },
             {
@@ -2014,7 +2014,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/resin"
               }
             },
             {
@@ -2024,7 +2024,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/resin"
               }
             },
             {
@@ -2034,7 +2034,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/host/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/resin"
               }
             },
             {
@@ -2044,7 +2044,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/resin"
               }
             },
             {
@@ -2054,7 +2054,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/resin"
               }
             },
             {
@@ -2064,7 +2064,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/resin"
               }
             },
             {
@@ -2074,7 +2074,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/resin"
               }
             },
             {
@@ -2084,7 +2084,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/resin"
               }
             },
             {
@@ -2094,7 +2094,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/resin"
               }
             },
             {
@@ -2104,7 +2104,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/resin"
               }
             },
             {
@@ -2114,7 +2114,7 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/resin"
               }
             },
             {
@@ -2124,13 +2124,13 @@
               },
               "model": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/resin"
+                "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/resin"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/resin"
+            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/resin"
           },
           "property": "minecraft:component",
           "component": "minecraft:trim"
@@ -2143,113 +2143,113 @@
         "type": "minecraft:condition",
         "on_true": {
           "type": "minecraft:model",
-          "model": "minecraft:item/iron_boots/minecraft/sentry/minecraft/_fallback"
+          "model": "minecraft:item/trims/iron_boots/minecraft/sentry/minecraft/_fallback"
         },
         "on_false": {
           "type": "minecraft:condition",
           "on_true": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_boots/minecraft/vex/minecraft/_fallback"
+            "model": "minecraft:item/trims/iron_boots/minecraft/vex/minecraft/_fallback"
           },
           "on_false": {
             "type": "minecraft:condition",
             "on_true": {
               "type": "minecraft:model",
-              "model": "minecraft:item/iron_boots/minecraft/wild/minecraft/_fallback"
+              "model": "minecraft:item/trims/iron_boots/minecraft/wild/minecraft/_fallback"
             },
             "on_false": {
               "type": "minecraft:condition",
               "on_true": {
                 "type": "minecraft:model",
-                "model": "minecraft:item/iron_boots/minecraft/coast/minecraft/_fallback"
+                "model": "minecraft:item/trims/iron_boots/minecraft/coast/minecraft/_fallback"
               },
               "on_false": {
                 "type": "minecraft:condition",
                 "on_true": {
                   "type": "minecraft:model",
-                  "model": "minecraft:item/iron_boots/minecraft/dune/minecraft/_fallback"
+                  "model": "minecraft:item/trims/iron_boots/minecraft/dune/minecraft/_fallback"
                 },
                 "on_false": {
                   "type": "minecraft:condition",
                   "on_true": {
                     "type": "minecraft:model",
-                    "model": "minecraft:item/iron_boots/minecraft/wayfinder/minecraft/_fallback"
+                    "model": "minecraft:item/trims/iron_boots/minecraft/wayfinder/minecraft/_fallback"
                   },
                   "on_false": {
                     "type": "minecraft:condition",
                     "on_true": {
                       "type": "minecraft:model",
-                      "model": "minecraft:item/iron_boots/minecraft/raiser/minecraft/_fallback"
+                      "model": "minecraft:item/trims/iron_boots/minecraft/raiser/minecraft/_fallback"
                     },
                     "on_false": {
                       "type": "minecraft:condition",
                       "on_true": {
                         "type": "minecraft:model",
-                        "model": "minecraft:item/iron_boots/minecraft/shaper/minecraft/_fallback"
+                        "model": "minecraft:item/trims/iron_boots/minecraft/shaper/minecraft/_fallback"
                       },
                       "on_false": {
                         "type": "minecraft:condition",
                         "on_true": {
                           "type": "minecraft:model",
-                          "model": "minecraft:item/iron_boots/minecraft/host/minecraft/_fallback"
+                          "model": "minecraft:item/trims/iron_boots/minecraft/host/minecraft/_fallback"
                         },
                         "on_false": {
                           "type": "minecraft:condition",
                           "on_true": {
                             "type": "minecraft:model",
-                            "model": "minecraft:item/iron_boots/minecraft/ward/minecraft/_fallback"
+                            "model": "minecraft:item/trims/iron_boots/minecraft/ward/minecraft/_fallback"
                           },
                           "on_false": {
                             "type": "minecraft:condition",
                             "on_true": {
                               "type": "minecraft:model",
-                              "model": "minecraft:item/iron_boots/minecraft/silence/minecraft/_fallback"
+                              "model": "minecraft:item/trims/iron_boots/minecraft/silence/minecraft/_fallback"
                             },
                             "on_false": {
                               "type": "minecraft:condition",
                               "on_true": {
                                 "type": "minecraft:model",
-                                "model": "minecraft:item/iron_boots/minecraft/tide/minecraft/_fallback"
+                                "model": "minecraft:item/trims/iron_boots/minecraft/tide/minecraft/_fallback"
                               },
                               "on_false": {
                                 "type": "minecraft:condition",
                                 "on_true": {
                                   "type": "minecraft:model",
-                                  "model": "minecraft:item/iron_boots/minecraft/snout/minecraft/_fallback"
+                                  "model": "minecraft:item/trims/iron_boots/minecraft/snout/minecraft/_fallback"
                                 },
                                 "on_false": {
                                   "type": "minecraft:condition",
                                   "on_true": {
                                     "type": "minecraft:model",
-                                    "model": "minecraft:item/iron_boots/minecraft/rib/minecraft/_fallback"
+                                    "model": "minecraft:item/trims/iron_boots/minecraft/rib/minecraft/_fallback"
                                   },
                                   "on_false": {
                                     "type": "minecraft:condition",
                                     "on_true": {
                                       "type": "minecraft:model",
-                                      "model": "minecraft:item/iron_boots/minecraft/eye/minecraft/_fallback"
+                                      "model": "minecraft:item/trims/iron_boots/minecraft/eye/minecraft/_fallback"
                                     },
                                     "on_false": {
                                       "type": "minecraft:condition",
                                       "on_true": {
                                         "type": "minecraft:model",
-                                        "model": "minecraft:item/iron_boots/minecraft/spire/minecraft/_fallback"
+                                        "model": "minecraft:item/trims/iron_boots/minecraft/spire/minecraft/_fallback"
                                       },
                                       "on_false": {
                                         "type": "minecraft:condition",
                                         "on_true": {
                                           "type": "minecraft:model",
-                                          "model": "minecraft:item/iron_boots/minecraft/bolt/minecraft/_fallback"
+                                          "model": "minecraft:item/trims/iron_boots/minecraft/bolt/minecraft/_fallback"
                                         },
                                         "on_false": {
                                           "type": "minecraft:condition",
                                           "on_true": {
                                             "type": "minecraft:model",
-                                            "model": "minecraft:item/iron_boots/minecraft/flow/minecraft/_fallback"
+                                            "model": "minecraft:item/trims/iron_boots/minecraft/flow/minecraft/_fallback"
                                           },
                                           "on_false": {
                                             "type": "minecraft:model",
-                                            "model": "minecraft:item/iron_boots/minecraft/_fallback/minecraft/_fallback"
+                                            "model": "minecraft:item/trims/iron_boots/minecraft/_fallback/minecraft/_fallback"
                                           },
                                           "property": "minecraft:component",
                                           "predicate": "trim",

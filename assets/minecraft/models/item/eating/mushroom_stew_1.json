@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/mushroom_stew",
+  "textures": {
+    "layer0": "minecraft:item/eating/mushroom_stew_1"
+  }
+}

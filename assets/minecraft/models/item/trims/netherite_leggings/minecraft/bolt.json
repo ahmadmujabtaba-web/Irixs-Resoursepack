@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_leggings",
+  "textures": {
+    "layer0": "minecraft:item/trims/netherite_leggings/base/minecraft/bolt"
+  }
+}

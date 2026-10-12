@@ -8,24 +8,24 @@
     "on_true": {
       "type": "minecraft:range_dispatch",
       "entries": [
-		{
+        {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/carrot_0"
+            "model": "minecraft:item/eating/carrot_0"
           },
           "threshold": 0.33
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/carrot_1"
+            "model": "minecraft:item/eating/carrot_1"
           },
           "threshold": 0.66
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/carrot_2"
+            "model": "minecraft:item/eating/carrot_2"
           },
           "threshold": 1.2
         }

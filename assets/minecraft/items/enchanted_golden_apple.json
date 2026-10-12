@@ -1,42 +1,42 @@
 {
   "model": {
     "type": "minecraft:condition",
+    "property": "minecraft:using_item",
     "on_false": {
       "type": "minecraft:model",
-      "model": "minecraft:item/golden_apple"
+      "model": "minecraft:item/enchanted_golden_apple"
     },
     "on_true": {
       "type": "minecraft:range_dispatch",
+      "property": "minecraft:use_duration",
+      "scale": 0.05,
       "entries": [
-		{
+        {
+          "threshold": 0.33,
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/golden_apple_0"
-          },
-          "threshold": 0.33
+            "model": "minecraft:item/eating/enchanted_golden_apple_0"
+          }
         },
         {
+          "threshold": 0.66,
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/golden_apple_1"
-          },
-          "threshold": 0.66
+            "model": "minecraft:item/eating/enchanted_golden_apple_1"
+          }
         },
         {
+          "threshold": 1.2,
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/golden_apple_2"
-          },
-          "threshold": 1.2
+            "model": "minecraft:item/eating/enchanted_golden_apple_2"
+          }
         }
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "minecraft:item/golden_apple"
-      },
-      "property": "minecraft:use_duration",
-      "scale": 0.05
-    },
-    "property": "minecraft:using_item"
+        "model": "minecraft:item/enchanted_golden_apple"
+      }
+    }
   }
 }

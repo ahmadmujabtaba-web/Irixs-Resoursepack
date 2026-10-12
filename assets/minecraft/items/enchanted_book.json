@@ -3,7 +3,7 @@
     "cases": [
       {
         "model": {
-          "model": "minecraft:item/aqua_affinity_1",
+          "model": "minecraft:item/books/enchanted_book/aqua_affinity",
           "type": "minecraft:model"
         },
         "when": [
@@ -14,7 +14,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/bane_of_arthropods_1",
+          "model": "minecraft:item/books/enchanted_book/bane_of_arthropods",
           "type": "minecraft:model"
         },
         "when": [
@@ -37,7 +37,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/breach_1",
+          "model": "minecraft:item/books/enchanted_book/breach",
           "type": "minecraft:model"
         },
         "when": [
@@ -60,7 +60,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/blast_protection_1",
+          "model": "minecraft:item/books/enchanted_book/blast_protection",
           "type": "minecraft:model"
         },
         "when": [
@@ -83,7 +83,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/channeling_1",
+          "model": "minecraft:item/books/enchanted_book/channeling",
           "type": "minecraft:model"
         },
         "when": [
@@ -94,7 +94,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/binding_curse_1",
+          "model": "minecraft:item/books/enchanted_book/binding_curse",
           "type": "minecraft:model"
         },
         "when": [
@@ -105,7 +105,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/density_1",
+          "model": "minecraft:item/books/enchanted_book/density",
           "type": "minecraft:model"
         },
         "when": [
@@ -128,7 +128,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/depth_strider_1",
+          "model": "minecraft:item/books/enchanted_book/depth_strider",
           "type": "minecraft:model"
         },
         "when": [
@@ -145,7 +145,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/efficiency_1",
+          "model": "minecraft:item/books/enchanted_book/efficiency",
           "type": "minecraft:model"
         },
         "when": [
@@ -168,7 +168,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/feather_falling_1",
+          "model": "minecraft:item/books/enchanted_book/feather_falling",
           "type": "minecraft:model"
         },
         "when": [
@@ -188,7 +188,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/fire_aspect_1",
+          "model": "minecraft:item/books/enchanted_book/fire_aspect",
           "type": "minecraft:model"
         },
         "when": [
@@ -202,7 +202,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/fire_protection_1",
+          "model": "minecraft:item/books/enchanted_book/fire_protection",
           "type": "minecraft:model"
         },
         "when": [
@@ -222,7 +222,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/flame_1",
+          "model": "minecraft:item/books/enchanted_book/flame",
           "type": "minecraft:model"
         },
         "when": [
@@ -233,7 +233,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/fortune_1",
+          "model": "minecraft:item/books/enchanted_book/fortune",
           "type": "minecraft:model"
         },
         "when": [
@@ -250,7 +250,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/frost_walker_1",
+          "model": "minecraft:item/books/enchanted_book/frost_walker",
           "type": "minecraft:model"
         },
         "when": [
@@ -264,7 +264,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/impaling_1",
+          "model": "minecraft:item/books/enchanted_book/impaling",
           "type": "minecraft:model"
         },
         "when": [
@@ -287,7 +287,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/infinity_1",
+          "model": "minecraft:item/books/enchanted_book/infinity",
           "type": "minecraft:model"
         },
         "when": [
@@ -298,7 +298,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/knockback_1",
+          "model": "minecraft:item/books/enchanted_book/knockback",
           "type": "minecraft:model"
         },
         "when": [
@@ -312,7 +312,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/looting_1",
+          "model": "minecraft:item/books/enchanted_book/looting",
           "type": "minecraft:model"
         },
         "when": [
@@ -329,7 +329,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/loyalty_1",
+          "model": "minecraft:item/books/enchanted_book/loyalty",
           "type": "minecraft:model"
         },
         "when": [
@@ -346,7 +346,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/luck_of_the_sea_1",
+          "model": "minecraft:item/books/enchanted_book/luck_of_the_sea",
           "type": "minecraft:model"
         },
         "when": [
@@ -363,7 +363,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/lure_1",
+          "model": "minecraft:item/books/enchanted_book/lure",
           "type": "minecraft:model"
         },
         "when": [
@@ -380,7 +380,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/mending_1",
+          "model": "minecraft:item/books/enchanted_book/mending",
           "type": "minecraft:model"
         },
         "when": [
@@ -391,7 +391,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/multishot_1",
+          "model": "minecraft:item/books/enchanted_book/multishot",
           "type": "minecraft:model"
         },
         "when": [
@@ -402,7 +402,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/piercing_1",
+          "model": "minecraft:item/books/enchanted_book/piercing",
           "type": "minecraft:model"
         },
         "when": [
@@ -422,7 +422,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/power_1",
+          "model": "minecraft:item/books/enchanted_book/power",
           "type": "minecraft:model"
         },
         "when": [
@@ -445,7 +445,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/projectile_protection_1",
+          "model": "minecraft:item/books/enchanted_book/projectile_protection",
           "type": "minecraft:model"
         },
         "when": [
@@ -465,7 +465,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/protection_1",
+          "model": "minecraft:item/books/enchanted_book/protection",
           "type": "minecraft:model"
         },
         "when": [
@@ -485,7 +485,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/punch_1",
+          "model": "minecraft:item/books/enchanted_book/punch",
           "type": "minecraft:model"
         },
         "when": [
@@ -499,7 +499,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/quick_charge_1",
+          "model": "minecraft:item/books/enchanted_book/quick_charge",
           "type": "minecraft:model"
         },
         "when": [
@@ -516,7 +516,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/respiration_1",
+          "model": "minecraft:item/books/enchanted_book/respiration",
           "type": "minecraft:model"
         },
         "when": [
@@ -533,7 +533,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/riptide_1",
+          "model": "minecraft:item/books/enchanted_book/riptide",
           "type": "minecraft:model"
         },
         "when": [
@@ -550,7 +550,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/sharpness_1",
+          "model": "minecraft:item/books/enchanted_book/sharpness",
           "type": "minecraft:model"
         },
         "when": [
@@ -573,7 +573,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/smite_1",
+          "model": "minecraft:item/books/enchanted_book/smite",
           "type": "minecraft:model"
         },
         "when": [
@@ -596,7 +596,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/silk_touch_1",
+          "model": "minecraft:item/books/enchanted_book/silk_touch",
           "type": "minecraft:model"
         },
         "when": [
@@ -607,7 +607,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/soul_speed_1",
+          "model": "minecraft:item/books/enchanted_book/soul_speed",
           "type": "minecraft:model"
         },
         "when": [
@@ -624,7 +624,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/sweeping_edge_1",
+          "model": "minecraft:item/books/enchanted_book/sweeping_edge",
           "type": "minecraft:model"
         },
         "when": [
@@ -641,7 +641,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/swift_sneak_1",
+          "model": "minecraft:item/books/enchanted_book/swift_sneak",
           "type": "minecraft:model"
         },
         "when": [
@@ -658,7 +658,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/thorns_1",
+          "model": "minecraft:item/books/enchanted_book/thorns",
           "type": "minecraft:model"
         },
         "when": [
@@ -678,7 +678,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/unbreaking_1",
+          "model": "minecraft:item/books/enchanted_book/unbreaking",
           "type": "minecraft:model"
         },
         "when": [
@@ -695,7 +695,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/wind_burst_1",
+          "model": "minecraft:item/books/enchanted_book/wind_burst",
           "type": "minecraft:model"
         },
         "when": [
@@ -712,7 +712,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/vanishing_curse_1",
+          "model": "minecraft:item/books/enchanted_book/vanishing_curse",
           "type": "minecraft:model"
         },
         "when": [
@@ -723,7 +723,7 @@
       },
       {
         "model": {
-          "model": "minecraft:item/lunge_1",
+          "model": "minecraft:item/books/enchanted_book/lunge",
           "type": "minecraft:model"
         },
         "when": [
@@ -741,7 +741,7 @@
     ],
     "component": "minecraft:stored_enchantments",
     "fallback": {
-      "model": "minecraft:item/.big_enchanted_book",
+      "model": "minecraft:item/books/enchanted_book/.big_enchanted_book",
       "type": "minecraft:model"
     },
     "property": "minecraft:component",

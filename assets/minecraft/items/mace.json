@@ -916,7 +916,7 @@
       ],
       "on_true": {
         "type": "minecraft:model",
-        "model": "minecraft:item/breach"
+        "model": "minecraft:item/cit/mace/breach"
       },
       "on_false": {
         "type": "minecraft:condition",
@@ -929,7 +929,7 @@
         ],
         "on_true": {
           "type": "minecraft:model",
-          "model": "minecraft:item/density"
+          "model": "minecraft:item/cit/mace/density"
         },
         "on_false": {
           "type": "minecraft:model",
